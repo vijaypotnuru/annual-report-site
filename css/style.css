@@ -1849,7 +1849,7 @@ ol {
   }
 
   .work__item.wide__item {
-    width: calc(44% - 10px);
+    width: calc(48% - 10px);
   }
 
   .work__item {
@@ -2002,7 +2002,7 @@ ol {
   }
 
   .work__item.wide__item {
-    width: calc(50% - 10px);
+    width: calc(48% - 10px);
   }
 }
 /* Wide Mobile = 480px */
@@ -2137,7 +2137,7 @@ ol {
   }
 
   .work__item.wide__item {
-    width: calc(99% - 10px);
+    width: calc(98% - 10px);
   }
 
   .work__item {
