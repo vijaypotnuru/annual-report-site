@@ -1371,7 +1371,7 @@ ol {
 }
 .blog__item:hover {
   border: 1px solid transparent !important;
-  background: url(../img/blog/blog-2.jpg) no-repeat;
+  background: url(https://res.cloudinary.com/dmlhm8dwi/image/upload/v1716359995/untitled-design--9---1--c4ec28386f834200ac3470d7fccfd591_fid6uy.png) no-repeat;
   background-size: cover;
 }
 .blog__item:hover ul li {
