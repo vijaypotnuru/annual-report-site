@@ -631,6 +631,12 @@ ol {
   font-size: 38px;
 }
 
+.view-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /*---------------------
   Counter
 -----------------------*/
